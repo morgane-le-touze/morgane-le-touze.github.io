@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.title %}{% assign titre_page = page.title | append: " · " | append: site.title %}{% else %}{% assign titre_page = site.title | append: " · " | append: site.accroche %}{% endif %}
+  {% assign description_page = page.chapo | default: page.description | default: site.description | strip_html | strip_newlines %}
+  {% assign image_page = page.vignette | default: site.photo %}
+  <title>{{ titre_page }}</title>
+  <meta name="description" content="{{ description_page | escape }}">
+  <meta name="author" content="{{ site.title }}">
+  {% unless site.indexer %}<meta name="robots" content="noindex, nofollow">{% endunless %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="{% if page.collection == 'articles' %}article{% else %}website{% endif %}">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  <meta property="og:description" content="{{ description_page | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ image_page | absolute_url }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#222222">
+  <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="preload" href="{{ '/assets/fonts/alegreya-sans-latin-400-normal.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="evitement" href="#contenu">Aller au contenu</a>
+  <div class="site">
+    {% include barre.html %}
+    <main class="contenu" id="contenu">
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>

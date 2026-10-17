@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<section class="bandeau bandeau-accueil">
+  <h1>{{ site.accroche }}</h1>
+  <p class="sous-accroche">{{ site.sous_accroche }}</p>
+</section>
+
+{% assign articles = site.articles | sort: "ordre", "last" %}
+<section class="grille" aria-label="Articles">
+  {% for article in articles %}
+  <a class="tuile" href="{{ article.url | relative_url }}">
+    <span class="tuile-image"><img src="{{ article.vignette | relative_url }}" alt="" loading="{% if forloop.index > 2 %}lazy{% else %}eager{% endif %}"></span>
+    <span class="tuile-texte">
+      {% if article.etiquette %}<span class="tuile-etiquette">{{ article.etiquette }}</span>{% endif %}
+      <span class="tuile-titre">{{ article.titre_court | default: article.title }}</span>
+    </span>
+  </a>
+  {% endfor %}
+</section>

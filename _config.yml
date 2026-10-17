@@ -1,0 +1,49 @@
+# ─────────────────────────────────────────────
+#  Réglages du site — tu peux modifier les textes entre guillemets
+# ─────────────────────────────────────────────
+
+title: "Morgane Le Touzé"
+description: "Tests de smartphones et articles tech, à partir de l’usage réel."
+
+# Bandeau de la page d’accueil
+accroche: "Journalisme tech & usages numériques"
+sous_accroche: "Tests produits · interfaces · logiciels · usages"
+
+# Moteurs de recherche : false = le site demande à ne pas être indexé
+# Passe à true le jour où tu veux apparaître dans Google
+indexer: false
+
+# Contact
+linkedin: "https://www.linkedin.com/in/morgane-le-touze/"
+email: "letouze.morgane.mlt@gmail.com"
+
+# Ne pas toucher en dessous de cette ligne
+# ─────────────────────────────────────────────
+url: "https://morgane-le-touze.github.io"
+baseurl: ""
+lang: fr
+photo: /assets/images/morgane.jpg
+
+collections:
+  articles:
+    output: true
+    permalink: /tests/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - MODE-EMPLOI.md
+  - MODELE-ARTICLE.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
