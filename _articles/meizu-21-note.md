@@ -28,7 +28,7 @@ La question n’est donc pas seulement de savoir si le Meizu 21 Note fonctionne 
 
 ## Logiciel : Flyme fonctionne en France, mais il n’oublie jamais que vous n’êtes pas sa cible
 
-Flyme est la partie la plus intéressante du Meizu 21 Note. Visuellement, l’interface est sobre, claire et cohérente. Les menus sont familiers pour qui connaît Android, les animations sont discrètes et l’ensemble se montre très réactif. Dans son fonctionnement général, le système n’a donc rien de déroutant.
+Flyme est la partie la plus intéressante du Meizu 21 Note. Visuellement, l’interface est sobre, claire, cohérente. Les menus sont familiers pour qui connaît Android, les animations sont fluides et l’ensemble se montre très réactif. Dans son fonctionnement général, le système n’a donc rien de déroutant.
 
 ![Écran d’accueil de Flyme](/assets/images/meizu-21-note/flyme-accueil.jpg)
 ![Panneau de réglages rapides de Flyme](/assets/images/meizu-21-note/flyme-reglages-rapides.jpg)
