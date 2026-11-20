@@ -103,7 +103,7 @@ C’est sous charge prolongée que le résultat devient le plus intéressant. Su
 ![Suivi de la batterie, de la température et des images par seconde pendant le stress test](/assets/images/meizu-21-note/steel-nomad-suivi.jpg)
 *Sur 20 boucles de Steel Nomad Light, le Meizu 21 Note a conservé 98,6 % de stabilité, malgré une forte montée en température sous charge prolongée.*
 
-Cette stabilité s’accompagne cependant d’une forte montée en température. Pendant le stress test, 3DMark a relevé une température comprise entre 32 et 49 °C. L’application ne précise pas dans cet écran quel capteur est utilisé ; cette valeur ne doit donc pas être assimilée à une mesure de température de surface. Au toucher, la chauffe était également nettement perceptible sur le haut du dos et le cadre.
+Cette stabilité s’accompagne cependant d’une forte montée en température. Pendant le stress test, 3DMark a relevé une température comprise entre 32 et 49 °C. L’application ne précise pas dans cet écran quel capteur est utilisé, cette valeur ne doit donc pas être assimilée à une mesure de température de surface. Au toucher, la chauffe était également nettement perceptible sur le haut du dos et le cadre.
 
 Deux ans après sa sortie, le Snapdragon 8 Gen 2 offre encore une expérience fluide sur le Meizu 21 Note. Les performances ne constituent pas une limite perceptible dans notre usage quotidien. C’est surtout la chauffe sous charge prolongée qui ressort de nos mesures.
 
