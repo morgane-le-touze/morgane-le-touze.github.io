@@ -58,7 +58,7 @@ Au fond, le problème de Flyme n’est pas qu’il fonctionne mal en France, mai
 | Friction rencontrée                       | Résultat                                    |
 |-----------------------------------------------|-------------------------------------------------|
 | Clavier chinois par défaut                    | Remplacé                                        |
-| Play Store après la première connexion Google | Effacement des données du Play Store            |
+| Play Store après la première connexion Google | Résolu en effaçant les données, revenu après réinitialisation|
 | Mode sombre imposé à certaines applications   | Résolu via un réglage Flyme                     |
 | Notifications en arrière-plan                 | Réglages manuels nécessaires                    |
 | Création du compte Flyme                      | A fonctionné après plusieurs semaines           |
@@ -176,7 +176,7 @@ De nuit, le téléphone applique automatiquement son traitement dédié. Dans le
 
 À l’avant, la caméra selfie conserve un niveau de détail satisfaisant et évite les lissages excessifs. Elle a également bien géré le contre-jour pendant nos essais, avec un visage qui reste lisible malgré un arrière-plan fortement éclairé.
 
-En vidéo, les contre-jours sont en revanche plus difficiles à gérer. Le Meizu 21 Note nous a davantage convaincus en 1080p à 30 i/s et en 4K à 30 i/s, où la stabilisation fonctionne efficacement et l’exposition s’adapte correctement lors des changements de luminosité. En 4K à 60 i/s, l’image devient plus nerveuse et les variations d’exposition sont plus visibles. Quant à la 8K à 30 i/s, elle tient surtout de la démonstration technique : les mouvements sont nettement plus difficiles à stabiliser en déplacement.
+En vidéo, le Meizu 21 Note nous a davantage convaincus en 1080p et en 4K à 30 i/s : la stabilisation fonctionne efficacement et l’exposition s’adapte correctement aux changements de luminosité. En 4K à 60 i/s comme en 8K à 30 i/s, l’exposition réagit plus lentement : une scène très éclairée met un moment à s’ajuster, et lors d’un passage de l’intérieur vers l’extérieur, le ciel apparaît sombre quelques instants. La 4K à 60 i/s rend aussi l’image plus nerveuse, tandis que la 8K tient surtout de la démonstration technique, avec des mouvements nettement plus difficiles à stabiliser en déplacement.
 
 Sur notre scène de test, le capteur principal est le module le plus convaincant, de jour comme de nuit, tandis que le traitement conserve une bonne cohérence entre les différents cadrages. En vidéo, les modes 30 i/s offrent l’expérience la plus maîtrisée.
 
