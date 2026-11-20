@@ -36,14 +36,14 @@ Flyme est un des points forts du Meizu 21 Note. L’interface est épurée : l�
 
 La première configuration rappelle en revanche très vite que le téléphone vise avant tout le marché chinois. Le français n’est pas disponible : l’interface est en anglais, tandis que certaines applications comme le Theme Store ou Aicy Vision, l’assistant visuel de Meizu, conservent du chinois. Le clavier installé par défaut est lui aussi destiné à un utilisateur chinois, jusque dans ses touches et ses réglages. Nous l’avons donc rapidement remplacé.
 
-La ROM contient également plusieurs applications préinstallées dont l’intérêt est limité en France. La plupart peuvent être supprimées, ce qui permet de nettoyer facilement l’environnement initial.
+Le système est livré avec plusieurs bloatwares, ces applications préinstallées dont on n’a pas forcément l’usage, encore moins en France. La plupart peuvent être supprimées, ce qui permet de faire le ménage dès la première prise en main.
 
 ![Menu Settings de Flyme, en anglais](/assets/images/meizu-21-note/flyme-parametres.jpg)
 *Malgré une organisation familière pour Android, Flyme n’est disponible qu’en anglais sur cette version chinoise.*
 
 Google n’est pas intégré au parcours de configuration comme sur un smartphone vendu officiellement en France. Il faut d’abord activer « Google Basic Services » dans Flyme, puis récupérer le Play Store depuis l’App Store de Meizu. Une fois cette étape passée, l’expérience devient beaucoup plus familière : Gmail, Google Maps ainsi que les principaux réseaux sociaux comme Facebook, Instagram ou Messenger s’installent et se lancent normalement.
 
-Quelques anomalies sont néanmoins apparues pendant les trois mois d’utilisation. Sur la version installée pendant notre test (pour rappel Flyme 12.6.0.0A), le Play Store se fermait au lancement juste après la première connexion au compte Google. Effacer les données du Play Store a réglé le problème, qui ne s’est plus reproduit ensuite. Il est réapparu à l’identique après une restauration d’usine de notre exemplaire. Certaines applications présentaient également des défauts d’affichage en mode sombre. Flyme dispose en effet, en plus du mode sombre général, d’une option permettant de l’imposer à certaines applications, dont plusieurs étaient sélectionnées par défaut. Modifier ce réglage a suffi à faire disparaître les problèmes observés. Dans les deux cas, nous avons trouvé une solution sans pouvoir établir l’origine du dysfonctionnement.
+Quelques anomalies sont néanmoins apparues pendant les trois mois d’utilisation. Sur la version installée pendant notre test (pour rappel Flyme 12.6.0.0A), le Play Store se fermait au lancement juste après la première connexion au compte Google. Effacer les données du Play Store a réglé le problème, qui ne s’est plus reproduit ensuite. Il est réapparu à l’identique après une restauration d’usine de notre exemplaire. Le problème ne s’est pas résolu de lui-même : plus d’une heure après, connexion Internet toujours active, le Play Store se fermait toujours au lancement. Si une mise à jour en arrière-plan était en cause, elle ne parvenait pas à se finaliser. Certaines applications présentaient également des défauts d’affichage en mode sombre. Flyme dispose en effet, en plus du mode sombre général, d’une option permettant de l’imposer à certaines applications, dont plusieurs étaient sélectionnées par défaut. Modifier ce réglage a suffi à faire disparaître les problèmes observés.
 
 Les limites deviennent plus gênantes lorsque les applications dépendent davantage de leur intégration au système. Google Messages, utilisé comme application SMS par défaut, n’a pas toujours reçu correctement les messages entrants alors que l’application Messages de Meizu les recevait normalement. Android Auto n’a pas fonctionné pendant nos essais. Lors de la connexion au véhicule, le système affichait une erreur de communication 22 indiquant qu’Android Auto n’était pas préinstallé sur l’appareil et devait être fourni avec le système d’exploitation. Activer les services Google permet donc de retrouver l’essentiel de leur écosystème, mais pas nécessairement toutes les intégrations d’un smartphone destiné au marché européen.
 
@@ -93,7 +93,7 @@ Le NFC fonctionne également, avec une limite davantage liée à l’écosystèm
 
 ## Performances et chauffe
 
-Avec son Snapdragon 8 Gen 2 et ses 16 Go de RAM, le Meizu 21 Note est rapide au quotidien. Les applications s’ouvrent sans attente perceptible, le multitâche est fluide et nous n’avons rencontré aucun ralentissement notable pendant les trois mois d’utilisation.
+Avec son Snapdragon 8 Gen 2 et ses 16 Go de RAM, le Meizu 21 Note est rapide au quotidien. Les applications s’ouvrent aussitôt, le multitâche est fluide et nous n’avons rencontré aucun ralentissement notable pendant les trois mois d’utilisation.
 
 Les benchmarks servent surtout à vérifier la régularité de cette impression sous une charge plus soutenue. Trois passages successifs de Geekbench 7.1 ont donné des résultats très proches, avec moins de 1 % d’écart entre eux. Le GPU a également été mesuré avec Geekbench 7.1 en OpenCL, et le stockage avec PCMark Storage 2.1 ; leurs résultats bruts sont regroupés dans le tableau ci-dessous.
 
@@ -123,9 +123,9 @@ Avec sa batterie de 5 500 mAh, le Meizu 21 Note tient sans difficulté une journ
 
 Notre exemplaire comptait 256 cycles de charge au moment des mesures. Flyme n’indique cependant aucun pourcentage de santé ni de capacité restante de la batterie : impossible donc de déterminer précisément dans quelle mesure son usage antérieur influençait encore son autonomie.
 
-Le test PCMark Work 3.0 Battery Life, lui aussi réalisé en 144 Hz fixe avec la luminosité automatique et en Wi-Fi, a tenu 8 h 05 entre 80 % et 20 % de batterie, conformément au protocole de l’application. Ce résultat doit être lu comme une mesure de notre exemplaire dans ces conditions précises, plutôt que comme une estimation de ce qu’obtiendrait un appareil neuf.
+Le test PCMark Work 3.0 Battery Life, lui aussi réalisé en 144 Hz fixe avec la luminosité automatique et en Wi-Fi, a tenu 8 h 05 entre 80 % et 20 % de batterie, conformément au protocole de l’application.
 
-En veille, nous avons relevé environ 5 % de perte pendant une nuit de huit heures, Always-On Display désactivé. Il s’agit d’une mesure ponctuelle, mais elle reste cohérente avec l’endurance constatée pendant les trois mois d’utilisation.
+En veille, nous avons relevé environ 5 % de perte pendant une nuit de huit heures, Always-On Display désactivé : un chiffre qui correspond à ce que nous avons vécu pendant trois mois.
 
 La recharge a été mesurée avec un chargeur tiers compatible de 65 W et un câble adapté à la recharge rapide. Nous n’avons toutefois pas mesuré le protocole ni la puissance réellement négociés pendant la charge. Après une décharge complète de la batterie, le téléphone a atteint 52 % en 21 minutes, 75 % en 31 minutes et 100 % en 55 minutes.
 
