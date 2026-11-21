@@ -53,7 +53,7 @@ Flyme se montre aussi très strict dans sa gestion des applications en arrière-
 
 L’écosystème Meizu est très tourné vers la Chine. Le magasin de thèmes propose beaucoup de contenus peu adaptés à un utilisateur européen et la création d’un compte Flyme nous a même été impossible pendant plusieurs semaines à cause d’un échec répété de l’envoi du SMS de vérification, avant de fonctionner soudainement sans changement apparent de notre côté.
 
-Au fond, le problème de Flyme n’est pas qu’il fonctionne mal en France, mais qu’il demande de comprendre ses propres règles. La plupart des obstacles rencontrés ont eu une solution. Mais plusieurs, comme la langue, l’activation de Google ou Android Auto, n’existent que parce que le téléphone n’a pas été conçu pour notre marché.
+Au fond, le problème de Flyme n’est pas qu’il fonctionne mal en France, mais qu’il faut apprendre à le faire fonctionner ici. La plupart des obstacles rencontrés ont eu une solution. Mais plusieurs, comme la langue, l’activation de Google ou Android Auto, n’existent que parce que le téléphone n’a pas été conçu pour notre marché.
 
 | Friction rencontrée                       | Résultat                                    |
 |-----------------------------------------------|-------------------------------------------------|
