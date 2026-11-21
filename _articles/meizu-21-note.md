@@ -99,13 +99,13 @@ Avec son Snapdragon 8 Gen 2 et ses 16 Go de RAM, le Meizu 21 Note est rapide au 
 
 Les benchmarks servent surtout à vérifier la régularité de cette impression sous une charge plus soutenue. Trois passages successifs de Geekbench 7.1 ont donné des résultats très proches, avec moins de 1 % d’écart entre eux. Le GPU a également été mesuré avec Geekbench 7.1 en OpenCL, et le stockage avec PCMark Storage 2.1 ; leurs résultats bruts sont regroupés dans le tableau ci-dessous.
 
-C’est sous charge prolongée que le résultat devient le plus intéressant. Sur deux séries de vingt boucles de 3DMark Steel Nomad Light réalisées à un jour d’intervalle, le Meizu a conservé 98,6 % puis 98,5 % de stabilité. La seconde série a débuté avec seulement 18 % de batterie et s’est terminée à 5 %, sans mode économie d’énergie, sans baisse notable des performances.
+C’est sous charge prolongée que le résultat devient le plus intéressant. Sur deux séries de vingt boucles de 3DMark Steel Nomad Light réalisées à un jour d’intervalle, le Meizu a conservé 98,6 % puis 98,5 % de stabilité. La seconde série a débuté avec seulement 18 % de batterie et s’est terminée à 5 %, sans mode économie d’énergie. Les performances n’ont pas baissé de façon notable non plus.
 
 ![Résultats du stress test Steel Nomad Light sur 20 boucles](/assets/images/meizu-21-note/steel-nomad-boucles.jpg)
 ![Suivi de la batterie, de la température et des images par seconde pendant le stress test](/assets/images/meizu-21-note/steel-nomad-suivi.jpg)
 *Sur 20 boucles de Steel Nomad Light, le Meizu 21 Note a conservé 98,6 % de stabilité, malgré une forte montée en température sous charge prolongée.*
 
-Cette stabilité s’accompagne cependant d’une forte montée en température. Pendant le stress test, 3DMark a relevé une température comprise entre 32 et 49 °C. L’application ne précise pas dans cet écran quel capteur est utilisé, cette valeur ne doit donc pas être assimilée à une mesure de température de surface. Au toucher, la chauffe était également nettement perceptible sur le haut du dos et le cadre.
+Cette stabilité s’accompagne cependant d’une forte montée en température. Pendant le stress test, 3DMark a relevé une température comprise entre 32 et 49 °C. 3DMark ne précise pas quel capteur il utilise : ce n’est donc pas une température de surface. Au toucher, la chauffe était également nettement perceptible sur le haut du dos et le cadre.
 
 Deux ans après sa sortie, le Snapdragon 8 Gen 2 offre encore une expérience fluide sur le Meizu 21 Note. Les performances ne constituent pas une limite perceptible dans notre usage quotidien. C’est surtout la chauffe sous charge prolongée qui ressort de nos mesures.
 
@@ -186,7 +186,7 @@ Avec environ 162 × 77 × 8,2 mm pour 205 g, le Meizu 21 Note est un grand smart
 
 Le détail visuel le plus singulier reste ses bordures blanches autour de l’écran, peu courantes aujourd’hui. Meizu annonce des bordures symétriques de seulement 1,75 mm, un choix qui donne au téléphone une identité immédiatement reconnaissable, surtout dans cette finition blanche.
 
-À l’arrière, trois larges cercles sont alignés verticalement. Deux accueillent les modules photo, tandis que le troisième intègre le Dynamic Halo, un anneau lumineux pouvant signaler les appels, les notifications, la recharge ou encore réagir à la musique. Les modules dépassent suffisamment pour faire légèrement basculer le téléphone lorsqu’il est utilisé à plat.
+À l’arrière, trois larges cercles sont alignés verticalement. Deux accueillent les modules photo, tandis que le troisième intègre le Dynamic Halo, un anneau lumineux pouvant signaler les appels, les notifications, la recharge ou encore réagir à la musique.
 
 ![Le Dynamic Halo allumé en vert au dos du téléphone](/assets/images/meizu-21-note/dynamic-halo.jpg)
 *Le Dynamic Halo prend place dans le troisième cercle arrière et peut signaler notamment les notifications, les appels ou la recharge.*
@@ -194,7 +194,7 @@ Le détail visuel le plus singulier reste ses bordures blanches autour de l’é
 ![Le téléphone posé à plat sur une table en bois](/assets/images/meizu-21-note/modules-a-plat.jpg)
 *Les modules photo dépassent suffisamment pour faire légèrement basculer le téléphone lorsqu’il est utilisé à plat.*
 
-Les commandes sont facilement accessibles : volume et alimentation sont regroupés sur la tranche droite ; en haut prennent place un microphone et l’émetteur infrarouge, tandis que le bas accueille le second microphone, le port USB-C, l’un des haut-parleurs et le tiroir double SIM.
+Les boutons de volume et d’alimentation sont regroupés sur la tranche droite ; en haut prennent place un microphone et l’émetteur infrarouge, tandis que le bas accueille le second microphone, le port USB-C, l’un des haut-parleurs et le tiroir double SIM.
 
 Le Meizu 21 Note bénéficie enfin d’une certification IP65, qui le protège contre la poussière et les projections d’eau, sans permettre l’immersion. Le lecteur d’empreintes sous l’écran s’est montré fiable pendant notre essai, même s’il demande de laisser le doigt posé un très court instant avant le déverrouillage. La reconnaissance faciale repose quant à elle sur une solution 2D.
 
