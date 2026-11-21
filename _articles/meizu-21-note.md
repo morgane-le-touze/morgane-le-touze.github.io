@@ -43,7 +43,7 @@ Le système est livré avec plusieurs bloatwares, ces applications préinstallé
 
 Google n’est pas intégré au parcours de configuration comme sur un smartphone vendu officiellement en France. Il faut d’abord activer « Google Basic Services » dans Flyme, puis récupérer le Play Store depuis l’App Store de Meizu. Une fois cette étape passée, l’expérience devient beaucoup plus familière : Gmail, Google Maps ainsi que les principaux réseaux sociaux comme Facebook, Instagram ou Messenger s’installent et se lancent normalement.
 
-Quelques anomalies sont néanmoins apparues pendant les trois mois d’utilisation. Sur la version installée pendant notre test (pour rappel Flyme 12.6.0.0A), le Play Store se fermait au lancement juste après la première connexion au compte Google. Le problème ne s’est pas résolu de lui-même : plus d’une heure après, connexion Internet toujours active, il se fermait encore. Si une mise à jour en arrière-plan était en cause, elle ne parvenait pas à se finaliser. Effacer les données du Play Store l’a réglé, mais il est réapparu à l’identique après une restauration d’usine.
+Quelques anomalies sont néanmoins apparues pendant les trois mois d’utilisation. Sur la version installée pendant notre test (pour rappel Flyme 12.6.0.0A), le Play Store se fermait au lancement juste après la première connexion au compte Google. Le problème ne s’est pas résolu de lui-même : plus d’une heure après, connexion Internet toujours active, il se fermait encore. Si une mise à jour en arrière-plan était en cause, elle ne parvenait pas à se finaliser. Effacer les données du Play Store l’a réglé, mais le problème est réapparu à l’identique après une restauration d’usine.
 
 Certaines applications présentaient également des défauts d’affichage en mode sombre. Flyme dispose en effet, en plus du mode sombre général, d’une option permettant de l’imposer à certaines applications, dont plusieurs étaient sélectionnées par défaut. Modifier ce réglage a suffi à faire disparaître les problèmes observés.
 
@@ -99,7 +99,7 @@ Avec son Snapdragon 8 Gen 2 et ses 16 Go de RAM, le Meizu 21 Note est rapide au 
 
 Les benchmarks servent surtout à vérifier la régularité de cette impression sous une charge plus soutenue. Trois passages successifs de Geekbench 7.1 ont donné des résultats très proches, avec moins de 1 % d’écart entre eux. Le GPU a également été mesuré avec Geekbench 7.1 en OpenCL, et le stockage avec PCMark Storage 2.1 ; leurs résultats bruts sont regroupés dans le tableau ci-dessous.
 
-C’est sous charge prolongée que le résultat devient le plus intéressant. Sur deux séries de vingt boucles de 3DMark Steel Nomad Light réalisées à un jour d’intervalle, le Meizu a conservé 98,6 % puis 98,5 % de stabilité. La seconde série a débuté avec seulement 18 % de batterie et s’est terminée à 5 %, sans mode économie d’énergie. Les performances n’ont pas baissé de façon notable non plus.
+C’est sous charge prolongée que le résultat devient le plus intéressant. Sur deux séries de vingt boucles de 3DMark Steel Nomad Light réalisées à un jour d’intervalle, le Meizu a conservé 98,6 % puis 98,5 % de stabilité. La seconde série a débuté avec seulement 18 % de batterie et s’est terminée à 5 %, sans mode économie d’énergie. Les performances n’ont pas baissé de façon notable.
 
 ![Résultats du stress test Steel Nomad Light sur 20 boucles](/assets/images/meizu-21-note/steel-nomad-boucles.jpg)
 ![Suivi de la batterie, de la température et des images par seconde pendant le stress test](/assets/images/meizu-21-note/steel-nomad-suivi.jpg)
