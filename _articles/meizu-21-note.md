@@ -210,11 +210,11 @@ Les microphones se sont montrés efficaces dans un environnement bruyant. Lors d
 
 ## Conclusion du test
 
-Le Meizu 21 Note peut servir de smartphone principal en France, mais pas avec la même transparence qu’un modèle conçu pour notre marché. Une fois Flyme configuré, l’essentiel fonctionne : les applications courantes s’installent, les performances sont largement suffisantes, l’autonomie est solide et l’écran constitue l’un de ses principaux atouts. **Hormis sa compatibilité réseau incomplète, le matériel n’est pas ce qui limite le plus l’expérience.**
+Le Meizu 21 Note peut servir de smartphone principal en France, mais pas avec la même transparence qu’un modèle conçu pour notre marché. Une fois Flyme configuré, l’essentiel fonctionne : les applications courantes s’installent, les performances sont largement suffisantes, l’autonomie est solide et l’écran constitue l’un de ses principaux atouts. Hormis sa compatibilité réseau incomplète, le matériel n’est pas ce qui limite le plus l’expérience.
 
 Les compromis viennent surtout de son origine chinoise. Flyme n’est pas disponible en français, certains services Google sont imparfaitement intégrés, Android Auto n’a pas fonctionné pendant nos essais, la gestion des applications en arrière-plan demande plusieurs réglages et le Widevine L3 limite certains services de streaming à la définition standard. À cela s’ajoutent une forte chauffe sous charge prolongée et quelques limites plus classiques, comme une luminosité minimale trop élevée ou l’absence de recharge sans fil.
 
-À **298 € d’occasion en juin 2026**, notre exemplaire proposait une combinaison difficile à ignorer : Snapdragon 8 Gen 2, 16 Go de RAM, écran OLED LTPO 144 Hz, bonne autonomie et un design qui conserve une vraie personnalité. À ce tarif, les concessions étaient plus faciles à accepter. **En octobre 2026, nous n’en avons plus trouvé à ce prix sur eBay**, ce qui change forcément l’intérêt de l’achat.
+À 298 € d’occasion en juin 2026, notre exemplaire proposait une combinaison difficile à ignorer : Snapdragon 8 Gen 2, 16 Go de RAM, écran OLED LTPO 144 Hz, bonne autonomie et un design qui conserve une vraie personnalité. À ce tarif, les concessions étaient plus faciles à accepter. En octobre 2026, nous n’en avons plus trouvé à ce prix sur eBay, ce qui change forcément l’intérêt de l’achat.
 
 > **Points forts** : écran, autonomie, performances encore largement suffisantes, recharge rapide, design distinctif, très bonne stabilité sous charge, interface Flyme épurée et réactive.
 >
